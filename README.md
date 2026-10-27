@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="T6Requiem" src="https://github.com/user-attachments/assets/6d982e96-1e7a-44ee-bd8d-98a8ab8e2824" />
+
 T6 Requiem — Android
 Native ARM64 port of Call of Duty: Black Ops II for Android, using DXVK Arm.
 Features
@@ -26,3 +28,4 @@ Credits
 - Project Requiem — Android ARM64 port, Android-specific fixes, launcher, and distribution
 Disclaimer
 T6 Requiem is an unofficial community project and is not affiliated with or endorsed by Activision or Treyarch. Call of Duty: Black Ops II and its original assets belong to their respective rights holders. Do not redistribute proprietary game files without authorization.
+ 
