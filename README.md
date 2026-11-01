@@ -4,6 +4,7 @@
   <p>Native ARM64 port of <strong>Call of Duty: Black Ops II</strong> for Android, using DXVK Arm.</p>
 </div>
 
+Make sure to also check the BO2 Requiem port for [Nintendo Switch](https://github.com/HDErick/BO2-Requiem-NX)
 ---
 
 ## Features
