@@ -50,4 +50,4 @@ Bugs may occur. Please report them in the T6 Requiem Discord server. Include the
 
 ## Disclaimer
 
-T6 Requiem is an unofficial community project and is not affiliated with or endorsed by Activision or Treyarch. Call of Duty: Black Ops II and its original assets belong to their respective rights holders. Do not redistribute proprietary game files without authorization.
+T6 Requiem is an unofficial community project and is not affiliated with or endorsed by Activision or Treyarch. Call of Duty: Black Ops II and its original assets belong to their respective rights holders. Do not redistribute proprietary game files without authorization. 
