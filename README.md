@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6d982e96-1e7a-44ee-bd8d-98a8ab8e2824" alt="T6 Requiem" width="720" />
   <h1>T6 Requiem — Android</h1>
-  <p>Native ARM64 port of <strong>Call of Duty: Black Ops II</strong> for Android, using DXVK Arm.</p>
+  <p>Native ARM64 port of <strong>Call of Duty: Black Ops II</strong> for Android, Vulkan and using DXVK Arm.</p>
 </div>
 
 Make sure to also check the BO2 Requiem port for [Nintendo Switch](https://github.com/HDErick/BO2-Requiem-NX)
