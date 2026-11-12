@@ -1,26 +1,53 @@
-# T6 Requiem Beta 2.3
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6d982e96-1e7a-44ee-bd8d-98a8ab8e2824" alt="T6 Requiem" width="720" />
+  <h1>T6 Requiem — Android</h1>
+  <p>Native ARM64 port of <strong>Call of Duty: Black Ops II</strong> for Android, Vulkan and using DXVK Arm.</p>
+</div>
 
-## New Features
+Make sure to also check the BO2 Requiem port for [Nintendo Switch](https://github.com/HDErick/BO2-Requiem-NX)
+---
 
-- Added Vulkan API as the primary option. *(Experimental)*
-- Added a custom FPS HUD.
+## Features
 
-## Fixes
+- Zombies and Multiplayer
+- Crossplay with Nintendo Wii U through Project Unbound and Nintendo Switch
+- PC crossplay starting with Beta 3
+- Touch controls and physical controller support
+- Native `arm64-v8a` execution — no x86 emulation
 
-- Fixed an input and touch-related issue.
-- Fixed a crash occurring in the menu when using external controllers.
-- Fixed issues regarding custom classes and options.
-- Fixes related to custom maps.
+## Requirements
 
-## Turnip Drivers
+**Recommended minimum**
 
-Download the Turnip drivers from the official links:
+- Snapdragon 765
+- Adreno 620 GPU
+- 6 GB RAM
+- Android device with Vulkan support and a 64-bit ARM processor
 
-- https://github.com/K11MCH1/AdrenoToolsDrivers/releases
-- https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases
+> You must own the original Steam version of Call of Duty: Black Ops II, including the Zombies and Multiplayer game files. The APK does not replace the original game files.
 
-**Requirement:** A driver with Vulkan 1.0 support is required.
+## Download and Install
 
-## Nintendo Switch
+1. Download the latest stable APK from **Releases**.
+2. Install the APK and open the launcher.
+3. Follow the launcher's instructions to set up or update the required game files.
+4. Select **Zombies** or **Multiplayer** and start the game.
 
-Make sure to also check the BO2 Requiem port for [Nintendo Switch](https://github.com/HDErick/BO2-Requiem-NX/releases/latest).
+## Bugs and Feedback
+
+Bugs may occur. Please report them in the T6 Requiem Discord server. Include the following details when possible:
+
+- Device model
+- Android version
+- What happened and how to reproduce it
+- `BO2/t6requiem_log.txt`, if available
+
+## Credits
+
+- Requiem / Black Ops II decompilation project and its contributors
+- Project Unbound / https://discord.gg/yUz2YqxnU
+- Project Requiem / https://discord.gg/TSsKEG9bw
+
+## Disclaimer
+
+T6 Requiem is an unofficial community project and is not affiliated with or endorsed by Activision or Treyarch. Call of Duty: Black Ops II and its original assets belong to their respective rights holders. Do not redistribute proprietary game files without authorization. 
